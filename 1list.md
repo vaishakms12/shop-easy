@@ -5,3 +5,7 @@
 - banana
 - mango
 - pineapple
+##  mobiles
+- samsung
+- iphonr
+- oppo
